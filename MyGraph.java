@@ -97,8 +97,7 @@ public class MyGraph implements Graph {
      * @throws IllegalArgumentException if a or b does not exist.
      */
     public int shortestPath(Vertex a, Vertex b, List<Vertex> path) {
-		int c = 99;
-    	return 0;
+		return 0;
 
 	// YOUR CODE HERE
 
